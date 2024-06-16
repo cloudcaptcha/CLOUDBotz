@@ -1,7 +1,7 @@
 ## Cloud Bot Fun
 
 ```javascript
-This bot is only for entertainment and learning
+This bot is under repair, please do not use it.
 ```
 ## How To Use
 
