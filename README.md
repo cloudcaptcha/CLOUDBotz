@@ -8,7 +8,7 @@ This bot is only for entertainment and learning
 1. git clone this project
 
 ```sh
-git clone https://github.com/cloudcaptcha/GTPSBot.git
+git clone https://github.com/cloudcaptcha/CLOUDBotz.git
 ```
 
 2. cd the directory
