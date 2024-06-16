@@ -14,13 +14,13 @@ git clone https://github.com/cloudcaptcha/CLOUDBotz.git
 2. cd the directory
 
 ```sh
-cd GTPSBot
+cd CLOUDBotz
 ```
 
 3. install the module
 
 ```sh
-npm install telegraf fs express archiver
+npm install telegraf fs path axios
 ```
 
 4. make .env file
@@ -32,7 +32,7 @@ touch .env
 5. fill .env with the following variables
 
 ```sh
-TELE_BOT=12345:abcdfghijklmnopqrstuvwxyz
+BOT_TOKEN=12345:abcdfghijklmnopqrstuvwxyz
 ```
 
 6. start the bot
