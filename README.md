@@ -20,7 +20,7 @@ cd CLOUDBotz
 3. install the module
 
 ```sh
-npm install telegraf fs path axios
+npm install telegraf axios dotenv
 ```
 
 4. make .env file
